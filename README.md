@@ -5,7 +5,7 @@ End-to-end Amazon sales analytics project using MySQL and Power BI to analyze cu
 - MySQL
 - Power BI
 
-- 
+ 
 ## Dashboard Preview
 
 ### Executive Dashboard
